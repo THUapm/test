@@ -1,0 +1,15 @@
+/home/enovo/projects/test/hw4/MyApp/bin/Debug/net9.0/MyApp
+/home/enovo/projects/test/hw4/MyApp/bin/Debug/net9.0/MyApp.deps.json
+/home/enovo/projects/test/hw4/MyApp/bin/Debug/net9.0/MyApp.runtimeconfig.json
+/home/enovo/projects/test/hw4/MyApp/bin/Debug/net9.0/MyApp.dll
+/home/enovo/projects/test/hw4/MyApp/bin/Debug/net9.0/MyApp.pdb
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.dll
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/refint/MyApp.dll
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.pdb
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
+/home/enovo/projects/test/hw4/MyApp/obj/Debug/net9.0/ref/MyApp.dll
